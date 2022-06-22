@@ -1,0 +1,68 @@
+ * {
+  	box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+
+
+ body {
+	background: white;
+	color: black;
+}
+
+header {
+	margin-top: 75px;
+}
+
+
+#comentary {
+	background: #f1f1f1;
+	padding: 50px 0 30px 0;
+	text-align: center;
+	margin-top: 40px;
+}
+
+#Menu {
+	padding-left: 12%;
+}
+
+#social {
+	margin: 10px;
+}
+
+#social p {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.links {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.links a {
+	margin: 0 30px;
+
+}
+
+.links a i {
+	font-size: 3rem;
+}
+
+#social {
+	background: white;
+	padding: 5px 0 10px 0;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.pie {
+    background: #2f3640;
+    font-size: 12px;
+    color: whitesmoke;
+    padding: 20px 0;
+    text-align: center;
+    padding-bottom: 20px;
+}
